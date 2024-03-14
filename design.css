@@ -1,0 +1,105 @@
+body{
+background-color: rgb(122, 48, 122);
+}
+h1{
+color: whitesmoke;
+}
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.imgs{
+width:100% ;
+height: 100%;
+filter: drop-shadow(30px 30px 30px  black);
+
+}
+.sectionOne{
+max-width: 1200px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+margin-left: 200px;
+}
+
+.para1{
+width: 300px;
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+.margin{
+margin-top: 100px;
+}
+
+.btn{
+padding:10px;
+background-color: violet;
+}
+
+.btn:hover{
+background-color: white;
+}
+
+.img1,
+.img2,
+.img3{
+height:200px ;
+width: 250px;
+border: dashed whitesmoke;
+}
+
+.head1{
+padding: 20px;
+margin-top: 20px;
+text-align: center;
+}
+
+.para1,
+.para2,
+.para3{
+width: 200px;
+color: white;
+}
+
+.para1{
+margin-top: 0;
+}
+
+.div1{
+display: inline-block;
+vertical-align: top;
+margin-left: 130px;
+}
+
+.btn1{
+background-color: violet;
+padding: 10px;
+margin-top: 0;
+}
+
+.btn2{
+ background-color: violet;
+ padding: 10px;
+ margin-top: 20px;
+}
+
+.btn3{
+ background-color: violet;
+ padding: 10px;
+margin-top: 20px;
+}
+
+.btn1:hover{
+background-color: white;
+}
+
+.btn2:hover{
+background-color: white;
+}
+
+.btn3:hover{
+background-color: white;
+}
